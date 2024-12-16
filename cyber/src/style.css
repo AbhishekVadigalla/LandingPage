@@ -1,0 +1,24 @@
+.head h5{
+  font-size:20px;
+  cursor: pointer;
+}
+html{
+  overflow-x: hidden;
+  height: 100%;
+}
+.blue{
+ color: rgb(20, 159, 234);
+ font-size: 28px;
+ font-weight: bold;
+ margin-top: 15px;
+}
+.green{
+  color: green;
+ font-size: 22px;
+ font-weight: bold;
+ margin-top: 15px;
+}
+.cyb{
+  background-color: wheat;
+  min-height: 100vh;
+}
